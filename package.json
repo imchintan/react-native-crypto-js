@@ -1,7 +1,7 @@
 {
   "name": "react-native-crypto-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.",
   "main": "CryptoJS.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
