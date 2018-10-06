@@ -1,24 +1,11 @@
 # React Native CryptoJS
 
-React native javascript library of crypto standards.
+React native javascript library of crypto js.
 
 ## Install
 
-
 ```bash
-npm install react-native-crypto-js
-```
-
-### Usage
-
-ES6 import for typical API call signing use case:
-
-
-```javascript
-var AES = require("react-native-crypto-js").AES;
-var SHA256 = require("react-native-crypto-js").SHA256;
-...
-console.log(SHA256("Message"));
+npm install react-native-crypto-js --save
 ```
 
 ## API
@@ -63,35 +50,35 @@ console.log(decryptedData); // [{id: 1}, {id: 2}]
 
 #### Hashers
 
-- ```MD5```
-- ```SHA1```
-- ```SHA256```
-- ```SHA512```
-- ```SHA224```
-- ```SHA384```
-- ```SHA3```
-- ```RIPEMD160```
+- [x] ```MD5```
+- [ ] ```SHA1```
+- [ ] ```SHA256```
+- [ ] ```SHA512```
+- [ ] ```SHA224```
+- [ ] ```SHA384```
+- [ ] ```SHA3```
+- [ ] ```RIPEMD160```
 ---
 #### HMAC
-- ```HmacMD5```
-- ```HmacSHA1```
-- ```HmacSHA256```
-- ```HmacSHA224```
-- ```HmacSHA512```
-- ```HmacSHA384```
-- ```HmacSHA3```
-- ```HmacRIPEMD160```
+- [x] ```HmacMD5```
+- [ ] ```HmacSHA1```
+- [ ] ```HmacSHA256```
+- [ ] ```HmacSHA224```
+- [ ] ```HmacSHA512```
+- [ ] ```HmacSHA384```
+- [ ] ```HmacSHA3```
+- [ ] ```HmacRIPEMD160```
 ---
 #### PBKDF2
-- ```PBKDF2```
+- [ ] ```PBKDF2```
 ---
 #### Ciphers
-- ```AES```
-- ```DES```
-- ```TripleDES```
-- ```RC4```
-- ```RC4Drop```
-- ```Rabbit```
+- [x] ```AES```
+- [ ] ```DES```
+- [ ] ```TripleDES```
+- [ ] ```RC4```
+- [ ] ```RC4Drop```
+- [ ] ```Rabbit```
 
 ## Reporting Issues
 
