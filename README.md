@@ -10,7 +10,7 @@ npm install react-native-crypto-js --save
 
 ## API
 
-See: https://code.google.com/p/crypto-js
+See: https://cryptojs.gitbook.io/docs/
 
 ### AES Encryption
 
